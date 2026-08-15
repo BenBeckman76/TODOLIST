@@ -11,10 +11,10 @@ TaskFlow is a lightweight todo list app built with HTML, CSS, and vanilla JavaSc
  Sort tasks by manual order, date added, due date, or importance
  See overdue tasks marked with a warning pill and highlighted styling
  Keep optional subtasks/checklists per task with progress tracking
- Reorder tasks manually with drag-and-drop and touch-friendly arrow controls
+ Reorder tasks manually with drag anddrop and touchfriendly arrow controls
  Toggle between dark and light themes, with the choice saved across reloads
- Responsive layout built to stay usable on phone-sized screens
- Empty-state messaging for each category filter
+ Responsive layout built to stay usable on phonesized screens
+ Emptystate messaging for each category filter
  Animated completion feedback when a task is checked off
  Keyboard support for quick task entry and modal cancel behavior
 
@@ -30,6 +30,6 @@ TaskFlow is tuned for small screens and supports narrow layouts down to roughly 
 
 ## Files
 
-- `index.html` — app structure and theme toggle markup
-- `styles.css` — dark/light theme variables, mobile responsiveness, checklist styling, and drag states
-- `script.js` — task logic, filtering, sorting, subtasks, drag reordering, theme persistence, and local storage handling
+ `index.html`  app structure and theme toggle markup
+ `styles.css`  light theme variables, mobile responsiveness, checklist styling, and drag states
+ `script.js` task logic, filtering, sorting, subtasks, drag reordering, theme persistence, and local storage handling
